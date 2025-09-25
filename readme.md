@@ -1,4 +1,5 @@
 ## Hai World
 
-***Welcome to world of jsm***
--git , coding , dev , jsm
+***Welcome to world of coding***
+- Coding 
+- Git          
